@@ -3,6 +3,7 @@ boto3
 google-generativeai
 phi
 python-dotenv
-s3transfer
-six
-botocore
+rich
+markdown-it-py
+Pygments
+mdurl
