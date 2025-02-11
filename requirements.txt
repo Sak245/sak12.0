@@ -1,5 +1,5 @@
-streamlit>=1.32.0
-boto3>=1.34.0
-google-generativeai>=0.3.0
-phi>=2.0.0
-python-dotenv>=1.0.0
+streamlit
+boto3
+google-generativeai
+phi
+python-dotenv
