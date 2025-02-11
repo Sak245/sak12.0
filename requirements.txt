@@ -6,3 +6,6 @@ python-dotenv
 botocore
 s3transfer
 six
+markdown-it-py
+rich
+protobuf
